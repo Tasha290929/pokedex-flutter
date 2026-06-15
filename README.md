@@ -181,6 +181,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 <div align="center">
 
-Made with ❤️ and Flutter · Powered by [PokéAPI](https://pokeapi.co) · [YouTube](https://pokeapi.co](https://www.youtube.com/watch?v=vBhQx2qDtGQ)
+Made with ❤️ and Flutter · Powered by [PokéAPI](https://pokeapi.co) · [YouTube](https://www.youtube.com/watch?v=vBhQx2qDtGQ)
 
 </div>
